@@ -1,0 +1,11 @@
+Libraries Used
+
+    React -> starter pack
+    TailWind -> starter pack
+    ReactProps-> $ npm install prop-types --save (installed)
+    GSAP-> npm install gsap
+    icon pack:
+        -primer/octicons-react -> npm i @primer/octicons-react (installed)
+    Hooks-> useState, useEffect
+
+    Axios-> used for backend connections -> npm i axios
